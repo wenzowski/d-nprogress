@@ -1,0 +1,18 @@
+{
+  "name": "d-nprogress",
+  "author": "Alec Wenzowski <alec@wenzowski.com>",
+  "description": "Show slim progress bars while your Derby pages are rendering",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenzowski/d-nprogress.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "nprogress": "^0.2.0"
+  }
+}
